@@ -62,6 +62,15 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/button.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/button.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/example\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
